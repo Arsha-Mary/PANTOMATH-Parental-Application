@@ -48,18 +48,27 @@ The concept of this parental application is implanted by three main modules.
 •	He or she can manage the block-list also. 
 
 •	The only person who can access these above mentioned options are strictly admin. 
+
+![image](https://github.com/Arsha-Mary/PANTOMATH-Parental-Application/assets/122686375/4b751f1f-d875-491f-8cb6-7cb469194baf)
+
  
 **Parent module**
 
-•	Add child or register a child and install the application on child’s phone.  Fetch message from child phone. 
+•	Add child or register a child and install the application on child’s phone.
+
+• Fetch message from child phone. 
 
 • Fetch call from child phone.
 
-•	Fetch contact from the child’s phone.  Fetch the app list from child phone. 
+•	Fetch contact from the child’s phone.
+
+•	Fetch the app list from child phone. 
 
 • Real-time tracking of locations. 
 
-•	Can block the unwanted sites.  Get search history 
+•	Can block the unwanted sites.
+
+•	Get search history 
 
 **Child module**
 
@@ -70,6 +79,40 @@ The concept of this parental application is implanted by three main modules.
 • The child have no specific function.  
 
 • It enables to track the location of the child via GPS.
+
+![image](https://github.com/Arsha-Mary/PANTOMATH-Parental-Application/assets/122686375/cbc3c358-5220-451b-bd50-843b05933f0e)
+
+**ENTITY-RELATIONSHIP DIAGRAM**
+
+![image](https://github.com/Arsha-Mary/PANTOMATH-Parental-Application/assets/122686375/0c2bacfa-76f9-42bd-896c-4c4baff73612)
+
+**CONCLUSION**
+
+Panto-math is a complete solution for ensuring the safety of kids. By using GPS system parent can trace the current location of the child simply with the help of an android mobile. Pantomath system gives a facility to monitor the motion of a child .This system will provide exact address of current location with great accuracy. Each parent can monitor the movements of their children by using this android application. Parent can be an android mobile phone with the application in it. The child module can be either an android mobile, android watch or Android navigators. The database is used to monitor the location of the child and also admin can provide the complete control over child phone to parent. The parent application get details about the contact lists, message list, installed applications list, browser history etc. 
+
+**ADMIN WEB PAGE**
+
+Login page of the ADMIN & Build-Error page of the ADMIN
+
+![image](https://github.com/Arsha-Mary/PANTOMATH-Parental-Application/assets/122686375/65b5ab71-081a-43a9-a7d3-c6f509bd045b)
+
+
+Home page of ADMIN & Ban list managing page 
+
+![image](https://github.com/Arsha-Mary/PANTOMATH-Parental-Application/assets/122686375/b43b2087-7ada-4ec9-bc11-abaeae17dd02)
+
+**PARENT-END APPLICATION**
+![image](https://github.com/Arsha-Mary/PANTOMATH-Parental-Application/assets/122686375/334c6e1b-dd38-44e1-9c90-697ea82d1647)
+![image](https://github.com/Arsha-Mary/PANTOMATH-Parental-Application/assets/122686375/7f545dff-7660-43f2-998a-5d2826414b71)
+![image](https://github.com/Arsha-Mary/PANTOMATH-Parental-Application/assets/122686375/44bd5bfa-c7c3-46ed-a13c-58bc9285ab56)
+
+**CHILD-END APPLICATION**
+
+![image](https://github.com/Arsha-Mary/PANTOMATH-Parental-Application/assets/122686375/f13a2a51-c55b-4720-ac83-8e3fa25475c1)
+
+
+
+
 
 
 
